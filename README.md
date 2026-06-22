@@ -1,17 +1,21 @@
 # LifeLink Blood Network
+live Project:https://6a38eab778fb99f4bb253e01--chic-bavarois-4f4841.netlify.app/
 
 LifeLink Blood Network is a full-stack blood management system designed to connect blood donors and recipients efficiently.
 
-Features
-🩸 Blood Request Management
-👨‍⚕️ Donor Registration & Search
-🔐 Secure Authentication with Supabase
-📧 Email Verification
-👑 Role-Based Access Control (Admin/User)
-📊 Admin Dashboard & Analytics
-📩 Contact & Support System
-📱 Responsive Design
-⚡ Real-Time Database with Supabase
+## Features
+
+- User Authentication with Supabase Auth
+- Email Verification
+- Blood Request Management
+- Donor Registration and Search
+- Contact & Support System
+- Role-Based Access Control (Admin/User)
+- Admin Dashboard with Analytics
+- Blood Request Status Management
+- User Management
+- Responsive Modern UI
+- Real-Time Database using Supabase
 
 ## Tech Stack
 
