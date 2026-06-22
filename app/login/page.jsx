@@ -43,7 +43,7 @@ export default function LoginPage() {
     const { error } = await supabase.auth.signInWithOAuth({
       provider: "google",
       options: {
-        redirectTo: "https://6a38eab778fb99f4bb253e01--chic-bavarois-4f4841.netlify.app/auth/callback",
+        redirectTo: "https://lifelinkbloodnetwork.netlify.app/auth/callback",
       },
     });
 
